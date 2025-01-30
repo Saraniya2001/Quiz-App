@@ -1,14 +1,5 @@
 # Simple Quiz Application
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 The Simple Quiz Application is a lightweight web-based or console-based quiz system that allows users to answer multiple-choice questions and get instant feedback. It is designed for educational and entertainment purposes.
 
